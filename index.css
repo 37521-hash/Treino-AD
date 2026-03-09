@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    height:200vh;
+    background: #f5f5f5;
+background: linear-gradient( rgba(245, 245, 245, 1) 0%, rgba(0, 242, 214, 1) 42%, rgba(0, 212, 255, 1) 100%);
+
+}
+
+/* NAVBAR */
+.navbar{
+    position:fixed;
+    top:30px;
+    left:50%;
+    transform:translateX(-50%);
+    background:#ffffff;
+    padding:12px 25px;
+    border-radius:40px;
+    display:flex;
+    gap:20px;
+    box-shadow:0 10px 30px rgba(0,0,0,0.3);
+}
+
+/* LINKS */
+.navbar a{
+    color:rgb(0, 0, 0);
+    text-decoration:none;
+    font-weight:500;
+}
+
+.botao1{
+    background: #000000;
+}
+
+.botao1{
+   background: #000000;
+}
+
+.texto{
+margin-top: 100px;
+}
+
